@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'Fivo Sans Regular';
+  src: url('../../../assets/fonts/fivosans-regular-webfont.woff2') format('woff2'),
+        url('../../../assets/fonts/fivosans-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Fivo Sans Oblique';
+  src: url('../../../assets/fonts/fivosans-oblique-webfont.woff2') format('woff2'),
+        url('../../../assets/fonts/fivosans-oblique-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Fivo Sans Bold';
+  src: url('../../../assets/fonts/fivosans-bold-webfont.woff2') format('woff2'),
+        url('../../../assets/fonts/fivosans-bold-webfont.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Fivo Sans Bold Oblique';
+  src: url('../../../assets/fonts/fivosans-bold-oblique-webfont.woff2') format('woff2'),
+      url('../../../assets/fonts/fivosans-bold-oblique-webfont.woff') format('woff');
+  font-weight: bold;
+  font-style: oblique;
+}
+
+body { font-family: "Fivo Sans Regular", sans; color: #fff; background-color: #3377BB;}
+a { color: #fff; }
+h1, h2, h3, h4, h5 { font-family: "Fivo Sans Bold", sans; }
+h2 { border-bottom: 3px solid #FFF; }
+.employer { font-family: "Fivo Sans Bold", sans; }
+.date-range { font-family: "Fivo Sans Oblique", sans; }
