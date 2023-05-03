@@ -27,9 +27,10 @@
   font-style: oblique;
 }
 
-body { font-family: "Fivo Sans Regular", sans; color: #fff; background-color: #3377BB;}
-a { color: #fff; }
+body { font-family: "Fivo Sans Regular", sans; color: #fff; background-color: #39431E;}
+a { color: #fe8a85; }
 h1, h2, h3, h4, h5 { font-family: "Fivo Sans Bold", sans; }
 h2 { border-bottom: 3px solid #FFF; }
 .employer { font-family: "Fivo Sans Bold", sans; }
 .date-range { font-family: "Fivo Sans Oblique", sans; }
+img { max-width: 100%; }
