@@ -27,8 +27,10 @@
   font-style: oblique;
 }
 
-body { font-family: "Fivo Sans Regular", sans; color: #fff; background-color: #39431E;}
-a { color: #fe8a85; }
+body { font-family: "Fivo Sans Regular", sans; color: #fff; background-color: #243941;}
+a { color: #9de3ff; }
+a:hover, a:active { color: #61b3d3; }
+a { color: #9de3ff; }
 h1, h2, h3, h4, h5 { font-family: "Fivo Sans Bold", sans; }
 h2 { border-bottom: 3px solid #FFF; }
 .employer { font-family: "Fivo Sans Bold", sans; }
